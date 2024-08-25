@@ -22,8 +22,8 @@
     --col4: #1a5c37;
     --col5: #063f1e;
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque: "Bebas Neue" , cursive;
-    --fonte-android:  "Android", cursive;
+    --fonte-destaque: 'Bebas Neue', cursive;
+    --fonte-android:  'Android', cursive;
 }
 *{
     margin: 0px;
@@ -60,7 +60,7 @@ header > p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 nav{
